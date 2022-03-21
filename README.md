@@ -1,4 +1,4 @@
 # shiny-eureka
 Fast API
 
-test git config
+test git config windows
