@@ -1,4 +1,6 @@
 # shiny-eureka
 Fast API
 
-test git config windows
+to run the app:
+    
+    $ uvicorn main:app --reload
