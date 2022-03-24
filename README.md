@@ -1,5 +1,5 @@
 # shiny-eureka
-Fast API
+Fast API tutorial 
 
 to run the app:
     
